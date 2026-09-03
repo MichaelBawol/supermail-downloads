@@ -2,6 +2,8 @@
 
 **Effective: 3 September 2026**
 
+This policy applies to Supermail 0.12.0 and later. Version 0.12.0 is currently being prepared for the Mac App Store; earlier public previews use their connection and per-request mail-scope controls but do not yet show the 0.12.0 per-connection permission screen.
+
 Supermail is a desktop email client. Its developer does not operate a mail proxy, advertising service or analytics service, and does not receive your mailbox credentials, messages, contacts or app-usage history.
 
 ## Mail accounts and local data
