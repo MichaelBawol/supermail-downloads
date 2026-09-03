@@ -26,6 +26,8 @@ If updating an existing copy, quit Supermail before replacing it. Your accounts 
 
 This preview supports **IMAP and SMTP using a password or app password**, where your provider permits it. Start with your name and email address; use Advanced settings if your server needs custom details.
 
+**Gmail:** use a 16-character [Google app password](https://myaccount.google.com/apppasswords), not your normal Google password. Turn on 2-Step Verification first, then create an app password named Supermail. If Google does not offer app passwords for your account, check its security settings or ask your work/school administrator. [Google’s instructions](https://support.google.com/accounts/answer/185833?hl=en).
+
 Google and Microsoft browser sign-in still require application registrations configured under Settings → Integrations → Provider setup. A ready-to-use, Supermail-managed OAuth registration is **not included in this preview**. Some work accounts disable password-based IMAP/SMTP or require administrator consent. Confirm your provider supports your chosen connection method before relying on Supermail for daily mail.
 
 ## Connecting Kitty
